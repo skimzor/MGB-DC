@@ -5,15 +5,15 @@ I purchased a black one-to-one MGB PCB and transferred components from an OEM MG
 
 I desoldered components of a revision LSEP01088A1 DC/DC board, sanded it down, and then re-traced the tracks in KiCad.
 
-# Ordering
+# Ordering and Assembly
 
 Upload the gerber to a PCB fab (JLCPCB, PCBWay, OSHPark) with a board thickness of 0.8mm and in your favorite color.  Then transfer the components from an original MGB DC/DC Board (verify the correct polarity of the diodes when transferring).  
+
+Note: this PCB can only be used with components from a revision LSEP01088A1 MGB DC/DC Board.
 
 # Disclaimer
 
 Assembly of this PCB will require a donor MGB DC/DC and experience with desoldering and micro-soldering SMD components.  I do not take responsibility or accept blame for any damage to your Game Boy Pocket or MGB DC/DC Board. 
-
-Note: this PCB can only be used with components from a revision LSEP01088A1 MGB DC/DC Board.
 
 If you identify any issues or have fixes, please contact me on discord: skimzor #5078.
 
