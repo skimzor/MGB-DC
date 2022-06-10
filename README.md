@@ -1,6 +1,8 @@
 # Game Boy Pocket (MGB) DC/DC Board
 "Reverse engineered" an OEM Game Boy Pocket MGB DC/DC Board (rev LSEP01088A1) and recreated it in KiCad.
 
+I purchased a black one-to-one MGB PCB 
+
 # Ordering
 
 Upload the gerber to a PCB fab (JLCPCB, PCBWay, OSHPark) with a board thickness of 0.8mm and in your favorite color.  Then transfer the components from an original MGB DC/DC Board (verify the correct polarity of the diodes when transferring).  
@@ -16,3 +18,5 @@ If you identify any issues or have fixes, please contact me on discord: skimzor 
 # Credit
 
 n64freak for producing the black one-to-one MGB PCBs.
+
+miketf1 and smelly-ghost for organizing the group buy for the black PCBs.
