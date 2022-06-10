@@ -1,7 +1,7 @@
 # Game Boy Pocket (MGB) DC/DC Board
 "Reverse engineered" an OEM Game Boy Pocket MGB DC/DC Board (rev LSEP01088A1) and recreated it in KiCad.
 
-![](images/dc_board.png)
+![](images/dc_board.jpg)
 
 I purchased a black one-to-one MGB PCB and transferred components from an OEM MGB; however, I did not like the color contrast between the green OEM DC/DC Board and the black mainboard PCB. There are other aftermarket options for a black DC/DC board, but I wanted to use the stock MGB screen so I needed to retain both the 5V and -18V rails.  
 
