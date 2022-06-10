@@ -3,7 +3,7 @@
 
 # Ordering
 
-Upload the gerber to a PCB fab (JLCPCB, PCBWay, OSHPark) with a board thickness of 1.2mm and in your favorite color.  Then transfer the components from an original DMG Audio Board (verify the correct polarity of the diodes when transferring).  
+Upload the gerber to a PCB fab (JLCPCB, PCBWay, OSHPark) with a board thickness of 0.8mm and in your favorite color.  Then transfer the components from an original MGB DC/DC Board (verify the correct polarity of the diodes when transferring).  
 
 # Disclaimer
 
