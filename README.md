@@ -1,4 +1,4 @@
-# MGB-DC
+# Game Boy Pocket (MGB) DC/DC Board
 "Reverse engineered" an OEM Game Boy Pocket MGB DC/DC Board (rev LSEP01088A1) and recreated it in KiCad.
 
 # Ordering
