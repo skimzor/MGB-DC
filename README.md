@@ -7,10 +7,12 @@ Upload the gerber to a PCB fab (JLCPCB, PCBWay, OSHPark) with a board thickness 
 
 # Disclaimer
 
-I have not personally tested these as they were made for a member of the Game Boy community, so please use at your own risk.
+Assembly of this PCB will require a donor MGB DC/DC and experience with desoldering and micro-soldering SMD components.  I do not take responsibility or accept blame for any damage to your Game Boy.  
+
+Note: this PCB can only be used with components from a revision LSEP01088A1 MGB DC/DC Board.
 
 If you identify any issues or have fixes, please contact me on discord: skimzor #5078
 
 # Credit
 
-b_2_3_n for providing the OEM DMG Audio Boards to measure/trace.
+n64freak for producing the black one-to-one MGB PCBs.
