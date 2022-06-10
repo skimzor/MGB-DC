@@ -9,7 +9,7 @@ I desoldered components of a revision LSEP01088A1 DC/DC board, sanded it down, a
 
 Upload the gerber to a PCB fab (JLCPCB, PCBWay, OSHPark) with a board thickness of 0.8mm and in your favorite color.  Then transfer the components from an original MGB DC/DC Board (verify the correct polarity of the diodes when transferring).  
 
-Note: this PCB can only be used with components from a revision LSEP01088A1 MGB DC/DC Board.
+**Note:** this PCB can only be used with components from a revision LSEP01088A1 MGB DC/DC Board.
 
 # Disclaimer
 
