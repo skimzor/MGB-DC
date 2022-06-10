@@ -1,2 +1,2 @@
 # MGB-DC
-Game Boy Pocket DC Regulator
+"Reverse engineered" an original MGB DC/DC Board and recreated it in KiCad.
