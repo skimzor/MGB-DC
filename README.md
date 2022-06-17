@@ -17,7 +17,7 @@ Upload the gerber to a PCB fab (JLCPCB, PCBWay, OSHPark) with a board thickness 
 
 You will need to transfer components from a working Game Boy Pocket DC/DC Board for this PCB to work.  Please do not undertake this if you are inexperienced in soldering; populating this PCB will require desoldering and micro-soldering surface mount components.  I do not take responsibility or accept blame for any damage to your Game Boy Pocket or MGB DC/DC Board. 
 
-If you identify any issues or have fixes, please contact me on discord: *skimzor#5078*.
+If you have suggestions to improve or identify issues with the PCB design, please contact me on discord: *skimzor#5078*.
 
 # Credit
 
